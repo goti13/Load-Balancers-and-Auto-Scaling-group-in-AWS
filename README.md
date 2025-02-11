@@ -8,8 +8,7 @@ Imagine Load Balancers as traffic directors, making sure every visitor to your w
 
 - Understand the concepts of High Availability and Scalability in cloud computing.
 - Learn about Load Balancers and Auto Scaling Groups in AWS.
-- Gain practical experience ![image](https://github.com/user-attachments/assets/34fc4ba4-e3e9-48bf-9386-5069258f7be9)
- setting up an Application Load Balancer (ALB) and configuring Auto Scaling Groups (ASG) in AWS.
+- Gain practical experience setting up an Application Load Balancer (ALB) and configuring Auto Scaling Groups (ASG) in AWS.
 - Explore the importance of load balancing and auto-scaling in maintaining the reliability, availability, and performance of web applications.
 
 # Learning Outcomes:
