@@ -29,3 +29,14 @@ Let's understand some terms before going ahead with our practical.
    
 2. Client: This is your computer or phone, asking the server for stuff, like loading a web page or using an app.
 
+![image](https://github.com/user-attachments/assets/47b37aaa-7747-4d76-9873-f4d086a4a3e8)
+
+![image](https://github.com/user-attachments/assets/1f4c270e-e05b-40e0-bb10-981bb2e52f57)
+
+3. Traffic: Think of the "busy road" as the network infrastructure, like highways and streets, that connects servers (where websites and apps are hosted) to clients (like your computer or phone). It's where data packets travel back and forth, carrying information between the servers and the clients.
+4. Redundancy: This is like having backups for important stuff, just in case something breaks. It's like having spare parts for your bike so you can keep riding even if something breaks.
+   
+6. Server Load: Imagine a server like a superhero carrying heavy bags of data. Server load is like how heavy those bags are. Too many bags can slow the superhero down!
+7. Routing: Routing refers to the process of determining the best path for data packets to travel from their source (like a server) to their destination (like a client device). It's like finding the most efficient route on a map to reach your destination while avoiding traffic jams and roadblocks. Routing ensures that data packets reach their intended destination quickly and reliably across the network.
+
+
